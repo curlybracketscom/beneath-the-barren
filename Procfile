@@ -1,0 +1,1 @@
+web: npm run build && webpack-dev-server --port=process.env.PORT
